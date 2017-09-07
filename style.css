@@ -25,6 +25,13 @@
 	z-index: 5;
 }
 
+.videolabel {
+	position: relative;
+	top: 40%;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+}
+
 .red {
 	background: red;
 }
